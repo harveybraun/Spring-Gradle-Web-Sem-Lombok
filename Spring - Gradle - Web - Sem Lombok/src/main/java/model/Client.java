@@ -1,5 +1,12 @@
 package model;
 
+/**
+ * Descreve a Classe Client
+ *
+ * @author Harvey Braun
+ * @version 1.0
+ * @since 19/04/2020 - 15:00
+ */
 public class Client {
 
 	private String name;

@@ -7,6 +7,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.ArrayList;
 
+/**
+ * Descreve a Classe ProductControler
+ *
+ * @author Harvey Braun
+ * @version 1.0
+ * @since 19/04/2020 - 15:00
+ */
 @RestController
 public class ProductControler {
 

@@ -1,5 +1,12 @@
 package model;
 
+/**
+ * Descreve a Classe Product
+ *
+ * @author Harvey Braun
+ * @version 1.0
+ * @since 19/04/2020 - 15:00
+ */
 public class Product {
 	public String name;
 	public double price;
